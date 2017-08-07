@@ -1,0 +1,7 @@
+{
+    "galaxy.meteor.com": {
+        "env": {
+            "MONGO_URL": "mongodb://admin:sim911sim@ds117209.mlab.com:17209/messaginapp"
+        }
+    }
+}
